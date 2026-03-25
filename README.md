@@ -7,8 +7,11 @@ malware analysis/reverse engineering, and attack path remediation via Bloodhound
 
 Outside of that, I love to talk about rock climbing, guitars, and calisthenics.
 .
+
 .
+
 .
+
 .
 
 
