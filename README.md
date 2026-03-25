@@ -2,7 +2,13 @@
 
 I'm Morgen and I go by ChurchOfJorts.
 
-<img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/fb33d955-02a3-40fd-80bc-59723fc57600" />
+<img align=right width="320" height="320" alt="Pokemon child trainer saying I like jorts. They're comfy and easy to wear" src="https://github.com/user-attachments/assets/fb33d955-02a3-40fd-80bc-59723fc57600" />
+
+<!--GitHub Stats -->
+<br clear="both">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChurchOfJorts&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
+</div>
 
 <!--
 **ChurchOfJorts/ChurchOfJorts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
