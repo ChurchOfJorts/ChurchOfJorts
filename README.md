@@ -1,6 +1,7 @@
 ## Hello!
 
-I'm Morgen and I go by ChurchOfJorts.
+I'm Morgen and I go by ChurchOfJorts. Professionally, I'm a Security Analyst with an interest in Powershell, malware analysis/reverse engineering, and attack path remediation via Bloodhound.
+Outside of that, I love to talk about rock climbing, guitars, and calisthenics.
 
 <img align=right width="320" height="320" alt="Pokemon child trainer saying I like jorts. They're comfy and easy to wear" src="https://github.com/user-attachments/assets/fb33d955-02a3-40fd-80bc-59723fc57600" />
 
