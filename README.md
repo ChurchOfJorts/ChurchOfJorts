@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello!
+
+I'm Morgen and I go by ChurchOfJorts.
+
+<img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/fb33d955-02a3-40fd-80bc-59723fc57600" />
 
 <!--
 **ChurchOfJorts/ChurchOfJorts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
