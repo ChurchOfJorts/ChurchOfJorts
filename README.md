@@ -24,7 +24,7 @@ Outside of that, I love to talk about rock climbing, guitars, and calisthenics.
 The primary languages I like to work in are Powershell, Golang, and Nim! I'm hoping to add more C# and Rust to the rotation 
 <!--GitHub Stats -->
 <br clear="both">
-<div align="left">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChurchOfJorts&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChurchOfJorts&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"/>
 </div>
